@@ -69,12 +69,12 @@ in general the model managed to maintain good predictive performance.
 
 ## Repository structure
 AIRLINE-REVENUE/
-    .gitignore
-    LICENSE
-    README.md
-    requirement.txt
-    revenue_prediction.ipynb
-    route_performance.csv
+    -.gitignore
+    -LICENSE
+    -README.md
+    -requirement.txt
+    -revenue_prediction.ipynb
+    -route_performance.csv
 
 
 ## Future improvement
